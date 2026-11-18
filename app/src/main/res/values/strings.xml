@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="mode_deg">DEG</string>
+    <string name="mode_rad">RAD</string>
+    <string name="toggle_scientific">Scientific panel</string>
+    <string name="open_history">Calculation history</string>
+    <string name="toggle_theme">Toggle color theme</string>
+    <string name="copy_result">Copy result</string>
+    <string name="copied_to_clipboard">Copied %1$s</string>
+    <string name="history_title">History</string>
+    <string name="history_clear">Clear all</string>
+    <string name="history_empty_title">No calculations yet</string>
+    <string name="history_empty_subtitle">Completed equations appear here. Tap any result to reuse it.</string>
+    <string name="history_tap_hint">Tap to reuse result</string>
+    <string name="close_history">Close history</string>
+    <string name="delete_history_item">Delete entry</string>
+    <string name="error_divide_by_zero">Can\'t divide by 0</string>
+    <string name="error_syntax">Syntax error</string>
+    <string name="error_domain">Domain error</string>
+    <string name="error_overflow">Value too large</string>
+    <string name="cd_backspace">Backspace</string>
+    <string name="cd_all_clear">All clear</string>
+    <string name="cd_equals">Equals</string>
+    <string name="cd_parentheses">Parentheses</string>
+    <string name="cd_percent">Percent</string>
+    <string name="cd_divide">Divide</string>
+    <string name="cd_multiply">Multiply</string>
+    <string name="cd_subtract">Subtract</string>
+    <string name="cd_add">Add</string>
+    <string name="cd_decimal">Decimal point</string>
+    <string name="cd_sign_toggle">Toggle positive or negative</string>
+    <string name="sci_label">f(x)</string>
+    <string name="inv_label">2nd</string>
+</resources>
